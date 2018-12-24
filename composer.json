@@ -1,5 +1,5 @@
 {
-  "name": "voov/billingo-api-laravel",
+  "name": "ufooo/billingo-api-laravel",
   "description": "Billingo API Provider for Laravel 5+",
   "minimum-stability": "dev",
   "license": "MIT",
@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": ">=5.5.9",
-    "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.7.*",
+    "illuminate/support": "5.*",
     "voov/billingo-api-connector": "1.*"
   },
   "autoload": {
